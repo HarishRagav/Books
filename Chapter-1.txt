@@ -4,11 +4,12 @@ THE LAST TUESDAY
 
 Chapter 1 – The Man Everyone Knew
 
+
 The sound of metal never stopped near Tirunelveli Junction.
 
 From early morning until late at night, sparks flew from a small lathe shop at the corner of an old street. The board above the entrance was faded by the sun.
 
-**Vivin Engineering Works.**
+Vivin Engineering Works.
 
 People rarely looked at the board anymore.
 
@@ -30,296 +31,134 @@ He no longer noticed it.
 
 ---
 
-At exactly eight o'clock, an old man walked into the shop carrying a broken water pump.
+Vivin had started the shop in his twenties with borrowed money, a second-hand lathe, and the kind of stubbornness that only young men from small towns understand. He didn't have a degree. He didn't have connections. What he had were steady hands and a habit of showing up before the sun did.
 
-"Can you fix it?"
+For fifteen years, he ran the shop alone. Took every order, no matter how small. Fixed things other shops refused to touch. Quoted fair prices and never changed them halfway through a job.
 
-Vivin turned the pump in his hands.
+"If the price was fair in the morning," he used to say, "it's fair in the evening too."
 
-"When do you need it?"
-
-"Today."
-
-Vivin smiled.
-
-"Then today it is."
-
-The old man nodded with relief.
-
-"I knew you'd say that."
+People remembered that. In a town where everyone knew everyone, trust moved faster than advertising ever could.
 
 ---
 
-Around noon, the sun turned the streets white with heat.
+One morning, a man appeared at the shop entrance. Thin. Worn-out sandals. Shirt buttoned wrong.
 
-A thin young man stood quietly outside the shop.
+"Anna, any work here?"
 
-His shirt was old.
+Vivin looked at him for a long moment.
 
-His slippers were worn out.
+"You know lathe work?"
 
-He looked at the machines with both fear and hope.
+"No, anna."
 
-Vivin noticed him after a few minutes.
+"You know how to hold a file?"
 
-"You've been standing there for a long time."
+"I can learn."
 
-The young man smiled nervously.
+Vivin handed him a broom. "Start with the floor. We'll get to the file."
 
-"I... I'm looking for work."
+The man's name was Selvam. He swept the floor that first week. The next week, Vivin taught him to oil the machine. By the third month, Selvam could turn a basic shaft on his own. By the second year, he could read a micrometer better than most engineering graduates.
 
-"What work do you know?"
+Vivin never treated him like an employee. He treated him like a younger brother who happened to show up late.
 
-"I'll learn anything."
+"Eat first," Vivin would say every morning, sliding a packet of idli across the workbench. "The machine can wait. Your stomach can't."
 
-Vivin looked at him for a few seconds.
+Selvam stopped looking for other jobs.
 
-"What is your name?"
+Years passed. The shop grew. Not into something big and flashy — Vivin had no interest in that — but into something steady. Orders came from the junction, from the bus depot, from farmers who needed custom parts for pump sets. The phone rang more than it used to. The floor was always covered in metal shavings no matter how much Selvam swept.
 
-"Murugan."
+One evening, Vivin called Selvam over.
 
-"Can you be honest?"
+"We're getting too many orders."
 
-Murugan blinked.
+Selvam nodded. "We need another worker?"
 
-"I'll try."
+"No. We need another shift." Vivin paused. "You take mornings. I'll take nights."
 
-Vivin laughed.
+Selvam frowned. "Night shift is hard, anna."
 
-"No."
+"I like the quiet," Vivin said. And he meant it.
 
-Murugan looked confused.
-
-"You don't try to be honest."
-
-Vivin held out his hand.
-
-"You either are...
-
-...or you aren't."
-
-Murugan slowly shook his hand.
-
-"When can I start?"
-
-Vivin picked up a pair of safety gloves from a shelf and threw them toward him.
-
-"They're yours now."
-
-Murugan caught them with both hands.
-
-"Now."
+From then on, the shop never slept. Selvam arrived at six in the morning and left by two in the afternoon. Vivin came in at eight at night and worked until the streets were empty and the junction fell silent. Between the two of them, the lathe turned twenty hours a day.
 
 ---
 
-The first few weeks were difficult.
+Home was a small house on a street where everyone's laundry hung on the same rope.
 
-Murugan made mistakes.
+Vivin's wife, Meera, had the kind of patience that only a lathe worker's wife could have. She had learned to sleep through the sound of the front gate opening at 3 AM. She had learned to keep dinner warm without being told. She had learned that when Vivin came home smelling of iron and sweat, the right thing to do was hand him a towel and say nothing until he sat down.
 
-Lots of them.
+Their son, Aadhav, was seven. A loud, curious, exhausting boy who treated every object in the house as either a toy or a weapon. Vivin adored him with a fierceness that surprised even himself.
 
-Wrong measurements.
+On Sunday mornings — his only day off — Vivin would sit on the front step with Aadhav on his lap, teaching him things no seven-year-old needed to know.
 
-Bent rods.
+"This is a vernier caliper, kannu. See this scale here? This tells you how thick something is. Down to one-hundredth of a millimetre."
 
-Broken drill bits.
+Aadhav would stare at the tool with wide eyes and then try to measure the thickness of a biscuit.
 
-Sometimes he stood silently, waiting to be shouted at.
+Meera watched from the doorway, shaking her head, smiling.
 
-The shouting never came.
+"He's seven, Vivin. Teach him something normal."
 
-Instead...
+"This IS normal. This is more normal than whatever they're teaching him in school."
 
-Vivin would stand beside him.
+Aadhav laughed and held the caliper against his father's nose.
 
-"Come."
+"Point three five!" the boy announced.
 
-He would take the tool from Murugan's hand.
+"Ah, perfect. An engineer already."
 
-"Look at the machine."
-
-Not the tool.
-
-"The machine tells you what it wants."
-
-Murugan frowned.
-
-"It's just iron."
-
-Vivin smiled.
-
-"No."
-
-He gently touched the metal.
-
-"It talks."
-
-Murugan laughed.
-
-"I think you've worked too much."
-
-"Maybe."
-
-Vivin laughed with him.
-
-"But listen anyway."
-
-Months passed.
-
-The mistakes became fewer.
-
-The confidence became stronger.
-
-One evening, Murugan finished a difficult job all by himself.
-
-He looked at Vivin like a child waiting for approval.
-
-Vivin checked every measurement.
-
-Then quietly nodded.
-
-"Perfect."
-
-Murugan smiled all the way home.
+On those mornings, Vivin was the happiest man on the street, and everyone knew it.
 
 ---
 
-By the end of the year, the shop had more work than ever.
+In his late forties, something small shifted.
 
-Machines ran all day.
+A boy in the neighbourhood — young, maybe twenty-two, twenty-three — caught Vivin's attention. Not because the boy was loud or impressive, but because he was the opposite. He worked quietly. He showed up early. He carried himself like someone who had already decided what he wanted and was simply walking toward it.
 
-Customers came from nearby towns.
+His name was Karthik.
 
-Sometimes even from villages nearly fifty kilometers away.
+Vivin didn't approach him directly. He just watched, the way older men watch younger ones who remind them of something they used to be.
 
-One evening, Murugan looked around at the pile of unfinished work.
+One night, Vivin stopped at a tea shop near the junction after his shift. Karthik was already there, sitting alone, staring into a cup of black coffee like it held the answers to something.
 
-"Anna..."
+"Can't sleep?" Vivin asked.
 
-"We can't finish all this."
+Karthik looked up. "Never could."
 
-Vivin wiped the sweat from his forehead.
+"Me neither."
 
-"We can."
+Vivin sat down without being invited. The tea shop owner brought him his usual — coffee, half sugar, extra hot. They didn't talk much that first night. Just two men sitting in a tea shop at midnight, comfortable with silence.
 
-"How?"
+But they came back. Night after night. The conversations grew — not suddenly, but the way good conversations do. Like plants. Slowly, and then all at once.
 
-"You take mornings."
+They talked about business. Karthik had ideas — sharp ones — about distribution, about margins, about the things young men notice that older men have stopped looking for. Vivin listened more than he spoke.
 
-Murugan looked surprised.
+They talked about politics. Not the shouting kind. The real kind. The kind you only have when both people have paid taxes and waited in government offices and know exactly how little any of it changes.
 
-"And you?"
+They talked about life. About what it means to work hard and still feel behind. About fathers and sons. About the price of ambition in a town that values obedience.
 
-"I like nights."
+"You remind me of someone," Vivin said one night.
 
-"You'll never sleep."
+"Who?"
 
-Vivin grinned.
+"Me. Twenty years ago. Before I knew what I was doing."
 
-"I never liked sleeping much."
+Karthik smiled. "You still don't know, anna."
 
-From that day...
+Vivin laughed — a real laugh, the kind that starts in the chest and shakes the shoulders. "No. I don't. But I've gotten better at pretending."
 
-The shop never closed.
-
-When Murugan locked it in the evening...
-
-Vivin opened it again an hour later.
-
-People joked that the machines themselves had forgotten how to rest.
+The tea shop owner stopped charging Vivin. "You bring your own crowd, anna," he said. "That's payment enough."
 
 ---
 
-Every night, just before starting work, Vivin opened the small fridge in the corner.
+Life had settled into a rhythm that Vivin trusted. The shop ran well. Selvam was reliable. Meera was patient. Aadhav was growing taller every month. Karthik was becoming the kind of friend you don't look for but feel lucky to find.
 
-Inside...
+Everything was ordinary. Everything was good.
 
-There was always one bottle.
+And on a Tuesday night — a perfectly ordinary Tuesday in the middle of a perfectly ordinary week — Vivin walked into his shop, switched on the lathe, and started working on a shaft for a water pump that a farmer needed by Thursday.
 
-Cold.
+The metal sang under his hands. The shop hummed. The junction outside was quiet.
 
-Covered with tiny drops of water.
+Nothing unusual. Nothing at all.
 
-Appy Fizz.
-
-He opened it.
-
-*Tsshhh...*
-
-The sound made him smile every single time.
-
-He took one slow sip.
-
-Closed his eyes.
-
-"Perfect."
-
-Murugan laughed the first time he saw it.
-
-"Anna... after all these years..."
-
-"Still Appy Fizz?"
-
-Vivin looked offended.
-
-"What do you mean 'still'?"
-
-"I thought one day you'd become a tea or coffee man."
-
-Vivin shook his head.
-
-"No chance."
-
-Murugan laughed.
-
-"I'll remember that."
-
-Vivin raised the bottle.
-
-"You better."
-
----
-
-Outside...
-
-A brown street dog sat near the entrance.
-
-It wasn't hungry.
-
-It wasn't barking.
-
-It was waiting.
-
-Vivin reached into his bag.
-
-Without looking...
-
-He threw a biscuit.
-
-The dog caught it before it touched the ground.
-
-Another dog appeared.
-
-Then another.
-
-Within seconds...
-
-Five wagging tails surrounded him.
-
-Murugan stared.
-
-"They know exactly when you're leaving."
-
-"They're smarter than us."
-
-"Why?"
-
-"They never forget kindness."
-
-Murugan looked at the dogs.
-
-Then quietly looked at Vivin.
-
-Maybe...
-
-Neither did people.
+Just a good man, doing good work, on a night like any other.
